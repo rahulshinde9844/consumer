@@ -1,0 +1,98 @@
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization.styles.css
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Project\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
+C:\Project\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.exe
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.deps.json
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.json
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.runtimeconfig.dev.json
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfoInputs.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.AssemblyInfo.cs
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CoreCompileInputs.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization.styles.css
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.RazorTargetAssemblyInfo.cache
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.csproj.CopyComplete
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
+C:\Stage -3 and 4\Policy-Administration-System\Authorization\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache

@@ -1,0 +1,113 @@
+﻿@model Insureity_Portal.Models.ConsumerBusinessDetails
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<div>
+    <h4>Consumer Business Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConsumerId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ConsumerId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConsumerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ConsumerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DOB)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DOB)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Pan)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Pan)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AgentId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AgentId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AgentName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AgentName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BusinessId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BusinessId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ValidityofConsumer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ValidityofConsumer)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BusinessOverview)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BusinessOverview)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BusinessType)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BusinessType)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AnnualTurnOver)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AnnualTurnOver)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalEmployees)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TotalEmployees)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CapitalInvested)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CapitalInvested)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BusinessValue)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BusinessValue)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("UpdateConsumerBusiness", "UpdateConsumerBusiness", new { consumerId = Model.ConsumerId, propertyId = Model.BusinessId })
+
+</div>
+
+@*
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        <a asp-action="Index">Back to List</a>
+    </div>
+*@
