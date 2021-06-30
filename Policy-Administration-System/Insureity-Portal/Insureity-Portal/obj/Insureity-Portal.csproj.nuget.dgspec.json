@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Stage -3 and 4\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj": {}
+    "C:\\Project\\GitData\\consumer\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj": {}
   },
   "projects": {
-    "C:\\Stage -3 and 4\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj": {
+    "C:\\Project\\GitData\\consumer\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Stage -3 and 4\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj",
+        "projectUniqueName": "C:\\Project\\GitData\\consumer\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj",
         "projectName": "Insureity-Portal",
-        "projectPath": "C:\\Stage -3 and 4\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj",
+        "projectPath": "C:\\Project\\GitData\\consumer\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\Insureity-Portal.csproj",
         "packagesPath": "C:\\Users\\910340\\.nuget\\packages\\",
-        "outputPath": "C:\\Stage -3 and 4\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\obj\\",
+        "outputPath": "C:\\Project\\GitData\\consumer\\Policy-Administration-System\\Insureity-Portal\\Insureity-Portal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\910340\\AppData\\Roaming\\NuGet\\NuGet.Config",

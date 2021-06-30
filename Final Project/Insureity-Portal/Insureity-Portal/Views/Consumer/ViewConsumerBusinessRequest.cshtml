@@ -1,0 +1,46 @@
+﻿@model Insureity_Portal.Models.ViewConsumerBusiness
+
+@{
+    ViewData["Title"] = "View Consumer Business";
+}
+<div>
+    <a asp-action="CreateConsumerBusinessRequest" asp-controller="Consumer" class="btn btn-primary">Create Consumer Business</a>&nbsp;
+</div>
+<hr />
+<h4>View Consumer Business</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ViewConsumerBusinessRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ConsumerId" class="control-label"></label>
+                <input asp-for="ConsumerId" class="form-control" />
+                <span asp-validation-for="ConsumerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BusinessId" class="control-label"></label>
+                <input asp-for="BusinessId" class="form-control" />
+                <span asp-validation-for="BusinessId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="View Consumer Business" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+
+            window.onload = function () {
+                alert("@ViewBag.Message");
+            };
+    </script>
+
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <div>
+        <p class="text-right m-0">Welcome,<strong> @ViewBag.Agent</strong></p>
+    </div>
+    <a asp-action="CreatePolicyRequest" asp-controller="Home" class="btn btn-primary">Create Policy</a>&nbsp;
+    <a asp-action="IssuePolicyRequest" asp-controller="Home" class="btn btn-primary">Issue Policy</a>&nbsp;
+    <a asp-action="ViewPolicyRequest" asp-controller="Home" class="btn btn-primary">View Policy</a>&nbsp;
+    <a asp-action="GetQuotesRequest" asp-controller="Home" class="btn btn-primary">View Quotes</a>
+</div>

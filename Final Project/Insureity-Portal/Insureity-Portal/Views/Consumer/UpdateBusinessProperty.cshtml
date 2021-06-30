@@ -1,0 +1,68 @@
+﻿@model Insureity_Portal.Models.BusinessPropertyDetails
+
+@{
+    ViewData["Title"] = "Update Business Property";
+}
+
+<h4>Update Business Property</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateBusinessProperty">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ConsumerId" class="control-label"></label>
+                <input asp-for="ConsumerId" class="form-control" />
+                <span asp-validation-for="ConsumerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropertyId" class="control-label"></label>
+                <input asp-for="PropertyId" class="form-control" />
+                <span asp-validation-for="PropertyId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BuildingSqft" class="control-label"></label>
+                <input asp-for="BuildingSqft" class="form-control" />
+                <span asp-validation-for="BuildingSqft" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BuildingType" class="control-label"></label>
+                <input asp-for="BuildingType" class="form-control" />
+                <span asp-validation-for="BuildingType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BuildingStoreys" class="control-label"></label>
+                <input asp-for="BuildingStoreys" class="form-control" />
+                <span asp-validation-for="BuildingStoreys" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BuildingAge" class="control-label"></label>
+                <input asp-for="BuildingAge" class="form-control" />
+                <span asp-validation-for="BuildingAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostOfTheAsset" class="control-label"></label>
+                <input asp-for="CostOfTheAsset" class="form-control" />
+                <span asp-validation-for="CostOfTheAsset" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalvageValue" class="control-label"></label>
+                <input asp-for="SalvageValue" class="form-control" />
+                <span asp-validation-for="SalvageValue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UsefulLifeOfTheAsset" class="control-label"></label>
+                <input asp-for="UsefulLifeOfTheAsset" class="form-control" />
+                <span asp-validation-for="UsefulLifeOfTheAsset" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update Details" class="btn btn-Sucees" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,891 @@
+INFO  08:10:14 Application started. Press Ctrl+C to shut down.
+INFO  08:10:14 Application started. Press Ctrl+C to shut down.
+INFO  08:10:14 Hosting environment: Development
+INFO  08:10:14 Hosting environment: Development
+INFO  08:10:14 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:10:14 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:11:22 Application started. Press Ctrl+C to shut down.
+INFO  08:11:22 Application started. Press Ctrl+C to shut down.
+INFO  08:11:22 Hosting environment: Development
+INFO  08:11:22 Hosting environment: Development
+INFO  08:11:22 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:11:22 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:17:19 Application started. Press Ctrl+C to shut down.
+INFO  08:17:19 Application started. Press Ctrl+C to shut down.
+INFO  08:17:19 Hosting environment: Development
+INFO  08:17:19 Hosting environment: Development
+INFO  08:17:19 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:17:19 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:21:56 Application started. Press Ctrl+C to shut down.
+INFO  08:21:56 Application started. Press Ctrl+C to shut down.
+INFO  08:21:56 Hosting environment: Development
+INFO  08:21:56 Hosting environment: Development
+INFO  08:21:56 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:21:56 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  08:23:29 POST: /createPolicy endpoint invoked :
+INFO  01:17:25 Application started. Press Ctrl+C to shut down.
+INFO  01:17:25 Application started. Press Ctrl+C to shut down.
+INFO  01:17:25 Hosting environment: Development
+INFO  01:17:25 Hosting environment: Development
+INFO  01:17:25 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  01:17:25 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  01:19:10 POST: /createPolicy endpoint invoked :
+INFO  02:49:48 Application started. Press Ctrl+C to shut down.
+INFO  02:49:48 Application started. Press Ctrl+C to shut down.
+INFO  02:49:48 Hosting environment: Development
+INFO  02:49:48 Hosting environment: Development
+INFO  02:49:48 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  02:49:48 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  02:50:22 POST: /createPolicy endpoint invoked :
+INFO  05:36:16 Application started. Press Ctrl+C to shut down.
+INFO  05:36:16 Application started. Press Ctrl+C to shut down.
+INFO  05:36:16 Hosting environment: Development
+INFO  05:36:16 Hosting environment: Development
+INFO  05:36:16 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  05:36:16 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  05:42:44 POST: /createPolicy endpoint invoked :
+INFO  05:50:33 POST: /createPolicy endpoint invoked :
+INFO  06:06:15 Application started. Press Ctrl+C to shut down.
+INFO  06:06:15 Application started. Press Ctrl+C to shut down.
+INFO  06:06:15 Hosting environment: Development
+INFO  06:06:15 Hosting environment: Development
+INFO  06:06:15 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  06:06:15 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  06:06:47 POST: /createPolicy endpoint invoked :
+INFO  06:08:15 Application started. Press Ctrl+C to shut down.
+INFO  06:08:15 Application started. Press Ctrl+C to shut down.
+INFO  06:08:15 Hosting environment: Development
+INFO  06:08:15 Hosting environment: Development
+INFO  06:08:15 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  06:08:15 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  06:09:15 POST: /createPolicy endpoint invoked :
+INFO  11:19:35 Application started. Press Ctrl+C to shut down.
+INFO  11:19:35 Application started. Press Ctrl+C to shut down.
+INFO  11:19:35 Hosting environment: Development
+INFO  11:19:35 Hosting environment: Development
+INFO  11:19:35 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:19:35 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:24:52 Application started. Press Ctrl+C to shut down.
+INFO  11:24:52 Application started. Press Ctrl+C to shut down.
+INFO  11:24:52 Hosting environment: Development
+INFO  11:24:52 Hosting environment: Development
+INFO  11:24:52 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:24:52 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:26:02 POST: /createPolicy endpoint invoked :
+INFO  11:27:19 POST: /createPolicy endpoint invoked :
+INFO  11:28:59 Application started. Press Ctrl+C to shut down.
+INFO  11:28:59 Application started. Press Ctrl+C to shut down.
+INFO  11:28:59 Hosting environment: Development
+INFO  11:28:59 Hosting environment: Development
+INFO  11:28:59 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:28:59 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:29:32 POST: /createPolicy endpoint invoked :
+INFO  11:36:08 Application started. Press Ctrl+C to shut down.
+INFO  11:36:08 Application started. Press Ctrl+C to shut down.
+INFO  11:36:08 Hosting environment: Development
+INFO  11:36:08 Hosting environment: Development
+INFO  11:36:08 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:36:08 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:36:34 POST: /createPolicy endpoint invoked :
+INFO  11:40:06 Application started. Press Ctrl+C to shut down.
+INFO  11:40:06 Application started. Press Ctrl+C to shut down.
+INFO  11:40:06 Hosting environment: Development
+INFO  11:40:06 Hosting environment: Development
+INFO  11:40:06 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:40:06 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  11:40:57 POST: /createPolicy endpoint invoked :
+INFO  11:47:39 POST: /createPolicy endpoint invoked :
+INFO  10:33:53 Application started. Press Ctrl+C to shut down.
+INFO  10:33:53 Application started. Press Ctrl+C to shut down.
+INFO  10:33:53 Hosting environment: Development
+INFO  10:33:53 Hosting environment: Development
+INFO  10:33:53 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  10:33:53 Content root path: C:\Users\910238\source\repos\PolicyMicroservice\PolicyMicroservice
+INFO  12:46:21 Application started. Press Ctrl+C to shut down.
+INFO  12:46:21 Application started. Press Ctrl+C to shut down.
+INFO  12:46:21 Hosting environment: Development
+INFO  12:46:21 Hosting environment: Development
+INFO  12:46:21 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  12:46:21 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  01:28:08 Application started. Press Ctrl+C to shut down.
+INFO  01:28:08 Application started. Press Ctrl+C to shut down.
+INFO  01:28:08 Hosting environment: Development
+INFO  01:28:08 Hosting environment: Development
+INFO  01:28:08 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  01:28:08 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  01:28:08 POST: /createPolicy endpoint invoked :
+INFO  01:28:55 POST: /createPolicy endpoint invoked :
+INFO  02:24:33 Application started. Press Ctrl+C to shut down.
+INFO  02:24:33 Application started. Press Ctrl+C to shut down.
+INFO  02:24:33 Hosting environment: Development
+INFO  02:24:33 Hosting environment: Development
+INFO  02:24:33 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:24:33 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+ERROR 02:25:29 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 39
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:25:29 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 39
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:28:01 Application started. Press Ctrl+C to shut down.
+INFO  02:28:01 Application started. Press Ctrl+C to shut down.
+INFO  02:28:01 Hosting environment: Development
+INFO  02:28:01 Hosting environment: Development
+INFO  02:28:01 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:28:01 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:33:48 Application started. Press Ctrl+C to shut down.
+INFO  02:33:48 Application started. Press Ctrl+C to shut down.
+INFO  02:33:48 Hosting environment: Development
+INFO  02:33:48 Hosting environment: Development
+INFO  02:33:48 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:33:48 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:59:36 Application started. Press Ctrl+C to shut down.
+INFO  02:59:36 Application started. Press Ctrl+C to shut down.
+INFO  02:59:36 Hosting environment: Development
+INFO  02:59:36 Hosting environment: Development
+INFO  02:59:36 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  02:59:36 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  03:30:36 Application started. Press Ctrl+C to shut down.
+INFO  03:30:36 Application started. Press Ctrl+C to shut down.
+INFO  03:30:36 Hosting environment: Development
+INFO  03:30:36 Hosting environment: Development
+INFO  03:30:36 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  03:30:36 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  03:51:23 POST: /createPolicy endpoint invoked :
+INFO  03:51:44 POST: /createPolicy endpoint invoked :
+ERROR 03:51:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:51:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:56:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:56:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:57:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:57:59 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:59:42 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 03:59:42 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:00:18 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:00:18 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.<>c__DisplayClass3_0.<GetPolicy>b__0(ConsumerPolicy p) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at PolicyMicroservice.Repository.ConsumerPolicyRepository.GetPolicy(String ConsumerId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Repository\ConsumerPolicyRepository.cs:line 59
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 36
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  04:02:18 Application started. Press Ctrl+C to shut down.
+INFO  04:02:18 Application started. Press Ctrl+C to shut down.
+INFO  04:02:18 Hosting environment: Development
+INFO  04:02:18 Hosting environment: Development
+INFO  04:02:18 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  04:02:18 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  04:05:31 Application started. Press Ctrl+C to shut down.
+INFO  04:05:31 Application started. Press Ctrl+C to shut down.
+INFO  04:05:31 Hosting environment: Development
+INFO  04:05:31 Hosting environment: Development
+INFO  04:05:31 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  04:05:31 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+ERROR 04:36:51 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 67
+   at PolicyMicroservice.Controllers.PolicyController.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 78
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:36:51 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 67
+   at PolicyMicroservice.Controllers.PolicyController.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 78
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:37:20 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 67
+   at PolicyMicroservice.Controllers.PolicyController.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 78
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 04:37:20 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 67
+   at PolicyMicroservice.Controllers.PolicyController.GetQuotes(Int32 PropertyValue, Int32 BusinessValue, String PropertyType) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 78
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:43:17 Application started. Press Ctrl+C to shut down.
+INFO  05:43:17 Application started. Press Ctrl+C to shut down.
+INFO  05:43:17 Hosting environment: Development
+INFO  05:43:17 Hosting environment: Development
+INFO  05:43:17 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  05:43:17 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  05:44:05 Application started. Press Ctrl+C to shut down.
+INFO  05:44:05 Application started. Press Ctrl+C to shut down.
+INFO  05:44:05 Hosting environment: Development
+INFO  05:44:05 Hosting environment: Development
+INFO  05:44:05 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  05:44:05 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+ERROR 05:44:24 An unhandled exception has occurred while executing the request.
+System.Exception: Unable to reach [Consumer] microservice.
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 100
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:44:24 An unhandled exception has occurred while executing the request.
+System.Exception: Unable to reach [Consumer] microservice.
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 100
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:45:14 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 92
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:45:14 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 92
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:45:36 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 92
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:45:36 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PolicyMicroservice.Service.PolicyService.ConsumerDetail(String ConsumerId, String BusinessId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 92
+   at PolicyMicroservice.Service.PolicyService.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Service\PolicyService.cs:line 37
+   at PolicyMicroservice.Controllers.PolicyController.ViewPolicy(String ConsumerId, String BusinessId, String PolicyId) in C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice\Controllers\PolicyController.cs:line 69
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:47:27 Application started. Press Ctrl+C to shut down.
+INFO  05:47:27 Application started. Press Ctrl+C to shut down.
+INFO  05:47:27 Hosting environment: Development
+INFO  05:47:27 Hosting environment: Development
+INFO  05:47:27 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  05:47:27 Content root path: C:\Stage -3 and 4\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  11:19:50 Application started. Press Ctrl+C to shut down.
+INFO  11:19:50 Application started. Press Ctrl+C to shut down.
+INFO  11:19:50 Hosting environment: Development
+INFO  11:19:50 Hosting environment: Development
+INFO  11:19:50 Content root path: C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  11:19:50 Content root path: C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  11:48:40 Application started. Press Ctrl+C to shut down.
+INFO  11:48:40 Application started. Press Ctrl+C to shut down.
+INFO  11:48:40 Hosting environment: Development
+INFO  11:48:40 Hosting environment: Development
+INFO  11:48:40 Content root path: C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  11:48:40 Content root path: C:\Users\910238\Downloads\Policy-Administration-System (1)\Policy-Administration-System\PolicyMicroservice\PolicyMicroservice
+INFO  11:50:56 POST: /createPolicy endpoint invoked :
+INFO  11:50:56  CreatePolicy Method Called
+INFO  11:51:21  viewPolicy Method Called
+INFO  12:07:36 Application started. Press Ctrl+C to shut down.
+INFO  12:07:36 Application started. Press Ctrl+C to shut down.
+INFO  12:07:36 Hosting environment: Development
+INFO  12:07:36 Hosting environment: Development
+INFO  12:07:36 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:07:36 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:07:55  viewPolicy Method Called
+INFO  12:08:09 GetQuotes Method Called
+INFO  12:15:12 Application started. Press Ctrl+C to shut down.
+INFO  12:15:12 Application started. Press Ctrl+C to shut down.
+INFO  12:15:12 Hosting environment: Development
+INFO  12:15:12 Hosting environment: Development
+INFO  12:15:12 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:15:12 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:15:25 Application started. Press Ctrl+C to shut down.
+INFO  12:15:25 Application started. Press Ctrl+C to shut down.
+INFO  12:15:25 Hosting environment: Development
+INFO  12:15:25 Hosting environment: Development
+INFO  12:15:25 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:15:25 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:16:18 GetQuotes Method Called
+INFO  12:19:34 POST: /createPolicy endpoint invoked :
+INFO  12:19:34  CreatePolicy Method Called
+INFO  12:22:28 POST: /createPolicy endpoint invoked :
+INFO  12:22:28  CreatePolicy Method Called
+INFO  12:23:37 POST: /createPolicy endpoint invoked :
+INFO  12:23:37  CreatePolicy Method Called
+INFO  12:44:44 Application started. Press Ctrl+C to shut down.
+INFO  12:44:44 Application started. Press Ctrl+C to shut down.
+INFO  12:44:44 Hosting environment: Development
+INFO  12:44:44 Hosting environment: Development
+INFO  12:44:44 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:44:44 Content root path: C:\Final Project\PolicyMicroservice\PolicyMicroservice
+INFO  12:45:29 POST: /createPolicy endpoint invoked :
+INFO  12:45:29  CreatePolicy Method Called
+INFO  12:45:45 POST: /createPolicy endpoint invoked :
+INFO  12:45:45  IssuePolicy Method Called
+INFO  12:45:53  viewPolicy Method Called
+INFO  01:02:48 GetQuotes Method Called
