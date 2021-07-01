@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PLRiNAZy4OfEuT2X3mk5pY80p6IoUqBaNYW9c62wFBLWLvJH/29ht8DJHoEQMPQghv2NPGF9/UL1824Fizdcfg==",
+  "dgSpecHash": "r4FoV8fR6U7QQOSVw+OiLb1dOFlL5pE3xM1wzTyM1SZc7UMcgHNWJpU5tPyMNGAnhkwQl4x7tnnhILztGmeyVA==",
   "success": true,
-  "projectFilePath": "C:\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
+  "projectFilePath": "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\910340\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",
     "C:\\Users\\910340\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

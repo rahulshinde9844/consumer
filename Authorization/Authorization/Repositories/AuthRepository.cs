@@ -5,7 +5,6 @@ using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
-using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,30 +21,21 @@ namespace Authorization.Repositories
             _agentRepository = agentRepository;
         }
 
-        public string GenerateJSONWebToken(LoginCredentials agentInfo)
+        public string GenerateJSONWebToken(Login agentInfo)
         {
             _log4net.Info("Token Is Generated!");
 
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
-            Claim[] claims = {
-                new Claim(ClaimTypes.Role, agentInfo.Role),
-                new Claim("username", agentInfo.Username)
-            };
-
             var token = new JwtSecurityToken(
               issuer: _configuration["Jwt:Issuer"],
               audience: _configuration["Jwt:Issuer"],
-              claims,
+              null,
               expires: DateTime.Now.AddMinutes(15),
               signingCredentials: credentials);
 
-
-
             return new JwtSecurityTokenHandler().WriteToken(token);
-
-
         }
 
         /// <summary>
@@ -53,15 +43,10 @@ namespace Authorization.Repositories
         /// </summary>
         /// <param name="login"></param>
         /// <returns></returns>
-
-        public LoginCredentials AuthenticateAgent(Login login)
+        public Login AuthenticateAgent(Login login)
         {
             _log4net.Info("Validating the Agent!");
-
-            //Validate the Agent Credentials 
-            LoginCredentials agent = _agentRepository.GetAgentDetails(login);
-
-
+            Login agent = _agentRepository.GetAgentDetails(login);
             return agent;
         }
     }

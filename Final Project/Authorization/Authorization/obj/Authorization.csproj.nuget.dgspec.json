@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Final Project\\Authorization\\Authorization\\Authorization.csproj": {}
+    "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\Authorization.csproj": {}
   },
   "projects": {
-    "C:\\Final Project\\Authorization\\Authorization\\Authorization.csproj": {
+    "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
+        "projectUniqueName": "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
         "projectName": "Authorization",
-        "projectPath": "C:\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
+        "projectPath": "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\Authorization.csproj",
         "packagesPath": "C:\\Users\\910340\\.nuget\\packages\\",
-        "outputPath": "C:\\Final Project\\Authorization\\Authorization\\obj\\",
+        "outputPath": "C:\\Project\\GitData\\consumer\\Final Project\\Authorization\\Authorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\910340\\AppData\\Roaming\\NuGet\\NuGet.Config",

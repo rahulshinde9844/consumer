@@ -9,21 +9,19 @@ namespace Authorization.Repositories
 {
     public class AgentRepository : IAgentRepository
     {
-        private IAgentProvider provider;
-
-        public AgentRepository(IAgentProvider _provider)
+        private IAgentService agentService;
+        public AgentRepository(IAgentService _agentService)
         {
-            provider = _provider;
+            agentService = _agentService;
         }
-        public LoginCredentials GetAgentDetails(Login cred)
+
+        public Login GetAgentDetails(Login cred)
         {
             if (cred == null)
             {
                 return null;
             }
-
-            LoginCredentials agent = provider.GetAgent(cred);
-
+            Login agent = agentService.GetAgent(cred);
             return agent;
         }
     }

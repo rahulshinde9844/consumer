@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Stage -3 and 4\\Policy-Administration-System\\Authorization\\Authorization\\Authorization.csproj": {}
+    "C:\\Stage -3 and 4\\Project\\Version 2\\Authorization\\Authorization\\Authorization.csproj": {}
   },
   "projects": {
-    "C:\\Stage -3 and 4\\Policy-Administration-System\\Authorization\\Authorization\\Authorization.csproj": {
+    "C:\\Stage -3 and 4\\Project\\Version 2\\Authorization\\Authorization\\Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Stage -3 and 4\\Policy-Administration-System\\Authorization\\Authorization\\Authorization.csproj",
+        "projectUniqueName": "C:\\Stage -3 and 4\\Project\\Version 2\\Authorization\\Authorization\\Authorization.csproj",
         "projectName": "Authorization",
-        "projectPath": "C:\\Stage -3 and 4\\Policy-Administration-System\\Authorization\\Authorization\\Authorization.csproj",
+        "projectPath": "C:\\Stage -3 and 4\\Project\\Version 2\\Authorization\\Authorization\\Authorization.csproj",
         "packagesPath": "C:\\Users\\910340\\.nuget\\packages\\",
-        "outputPath": "C:\\Stage -3 and 4\\Policy-Administration-System\\Authorization\\Authorization\\obj\\",
+        "outputPath": "C:\\Stage -3 and 4\\Project\\Version 2\\Authorization\\Authorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\910340\\AppData\\Roaming\\NuGet\\NuGet.Config",

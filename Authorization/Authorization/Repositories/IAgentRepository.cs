@@ -8,6 +8,6 @@ namespace Authorization.Repositories
 {
     public interface IAgentRepository
     {
-        public LoginCredentials GetAgentDetails(Login cred);
+        public Login GetAgentDetails(Login cred);
     }
 }

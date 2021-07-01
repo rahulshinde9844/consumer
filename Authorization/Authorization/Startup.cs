@@ -34,10 +34,24 @@ namespace Authorization
             services.AddControllers();
             var key = Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]);
 
-            services.AddTransient<IAgentProvider, AgentProvider>();
+            services.AddTransient<IAgentService, AgentService>();
 
             services.AddTransient<IAgentRepository, AgentRepository>();
 
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                 .AddJwtBearer(options =>
+                 {
+                     options.TokenValidationParameters = new TokenValidationParameters
+                     {
+                         ValidateIssuer = true,
+                         ValidateAudience = true,
+                         ValidateLifetime = true,
+                         ValidateIssuerSigningKey = true,
+                         ValidIssuer = Configuration["Jwt:Issuer"],
+                         ValidAudience = Configuration["Jwt:Issuer"],
+                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+                     };
+                 });
             services.AddMvc();
 
             services.AddSwaggerGen(c =>
@@ -66,6 +80,8 @@ namespace Authorization
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

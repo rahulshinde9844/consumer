@@ -15,9 +15,8 @@ namespace Authorization.Controllers
     public class AuthController : ControllerBase
     {
         private IConfiguration _configuration;
-        static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(AuthController));
+        private readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(AuthController));
         private readonly IAgentRepository _agentRepository;
-
 
         public AuthController(IConfiguration configuration, IAgentRepository agentRepository)
         {
@@ -29,8 +28,7 @@ namespace Authorization.Controllers
         /// Post method for Login
         /// </summary>
         /// <param name="login"></param>
-        /// <returns></returns>
-
+        /// <returns>token value</returns>
         [HttpPost]
         public IActionResult Login([FromBody] Login login)
         {
@@ -47,7 +45,7 @@ namespace Authorization.Controllers
                 var tokenString = _authRepository.GenerateJSONWebToken(user);
                 response = Ok(new { token = tokenString });
             }
-
+            _log4net.Info("Token generated");
             return response;
         }
 
