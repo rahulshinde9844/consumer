@@ -1,0 +1,54 @@
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Content root path: C:\Users\910264\MythProject\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  11:44:02 Content root path: C:\Users\910264\MythProject\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  11:44:17 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  11:44:17 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  11:44:17 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=1 PropertyType=factory equipment
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Application started. Press Ctrl+C to shut down.
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Hosting environment: Development
+INFO  09:01:08 Content root path: C:\Stage -3 and 4\Something\Version 1\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  09:01:08 Content root path: C:\Stage -3 and 4\Something\Version 1\QuotesMicroservice\QuotesMicroservice\QuotesMicroservice
+INFO  09:15:09 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:15:09 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:15:09 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=2 PropertyType=Building
+INFO  09:19:18 GetQuotesForPolicy action method started with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  09:19:18 QuotesForPolicyService is accessed with propertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  09:19:18 Checking QuotesForPolicy with PropertyValue=3 BusinessValue=2 PropertyType=Factory Equipment
+INFO  10:51:40 Application started. Press Ctrl+C to shut down.
+INFO  10:51:40 Application started. Press Ctrl+C to shut down.
+INFO  10:51:40 Hosting environment: Development
+INFO  10:51:40 Hosting environment: Development
+INFO  10:51:40 Content root path: C:\Stage -3 and 4\Project\Without test\QuotesMicroservice\QuotesMicroservice
+INFO  10:51:40 Content root path: C:\Stage -3 and 4\Project\Without test\QuotesMicroservice\QuotesMicroservice
+INFO  10:55:46 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  10:55:46 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  10:55:46 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  12:07:34 Application started. Press Ctrl+C to shut down.
+INFO  12:07:34 Application started. Press Ctrl+C to shut down.
+INFO  12:07:34 Hosting environment: Development
+INFO  12:07:34 Hosting environment: Development
+INFO  12:07:34 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  12:07:34 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:00:59 Application started. Press Ctrl+C to shut down.
+INFO  02:00:59 Application started. Press Ctrl+C to shut down.
+INFO  02:00:59 Hosting environment: Development
+INFO  02:00:59 Hosting environment: Development
+INFO  02:00:59 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:00:59 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:08:13 Application started. Press Ctrl+C to shut down.
+INFO  02:08:13 Application started. Press Ctrl+C to shut down.
+INFO  02:08:13 Hosting environment: Development
+INFO  02:08:13 Hosting environment: Development
+INFO  02:08:13 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:08:13 Content root path: C:\Stage -3 and 4\Project\With Authentication\QuotesMicroservice\QuotesMicroservice
+INFO  02:09:25 GetQuotesForPolicy action method started with PropertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:09:25 QuotesForPolicyService is accessed with propertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:09:25 Checking QuotesForPolicy with PropertyValue=2 BusinessValue=1 PropertyType=Building
+INFO  02:30:08 GetQuotesForPolicy action method started with PropertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  02:30:08 QuotesForPolicyService is accessed with propertyValue=1 BusinessValue=2 PropertyType=Building
+INFO  02:30:08 Checking QuotesForPolicy with PropertyValue=1 BusinessValue=2 PropertyType=Building

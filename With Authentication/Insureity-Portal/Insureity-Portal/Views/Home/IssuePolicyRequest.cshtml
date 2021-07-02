@@ -1,0 +1,59 @@
+﻿@model Insureity_Portal.Models.IssuePolicy
+
+@{
+    ViewData["Title"] = "Issue Policy";
+}
+
+<hr />
+<h4>Issue Policy</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="IssuePolicyRequest">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PolicyId" class="control-label"></label>
+                <input asp-for="PolicyId" class="form-control" />
+                <span asp-validation-for="PolicyId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConsumerId" class="control-label"></label>
+                <input asp-for="ConsumerId" class="form-control" />
+                <span asp-validation-for="ConsumerId" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+                    <label asp-for="BusinessId" class="control-label"></label>
+                    <input asp-for="BusinessId" class="form-control" />
+                    <span asp-validation-for="BusinessId" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="PaymentDetails" class="control-label"></label>
+                <input asp-for="PaymentDetails" class="form-control" />
+                <span asp-validation-for="PaymentDetails" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AcceptanceStatus" class="control-label"></label>
+                <input asp-for="AcceptanceStatus" class="form-control" />
+                <span asp-validation-for="AcceptanceStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Issue Policy" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+
+            window.onload = function () {
+                alert("@ViewBag.Message");
+            };
+    </script>
+
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
